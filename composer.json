@@ -1,0 +1,14 @@
+{
+    "name": "li888888888/dome2",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lzj",
+            "email": "2777026545@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
